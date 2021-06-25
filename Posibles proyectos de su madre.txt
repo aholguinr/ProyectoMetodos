@@ -1,0 +1,5 @@
+Ideas para métodos:
+-Estudiar el comportamiento de un diodo/transistor (no lloren) y su cargas minoritarias/temperatura 
+-Ensayos de materiales 
+-Análisis de posición , velocidad y aceleración de mecanismos de 4 barraras
+-Descargas de tanques de agua interconectados
