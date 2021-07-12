@@ -1,3 +1,4 @@
+clear
 format long
 t_ini=0; %s
 t_fin=2; %s
